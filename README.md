@@ -34,5 +34,4 @@ No special requirements.
 
 ### Current maintainers:
  * Vitor Grillo (vitorgrillo) - https://www.drupal.org/user/3436121
- * Renato Gonçalves (RenatoG) - https://www.drupal.org/user/3326031
 
